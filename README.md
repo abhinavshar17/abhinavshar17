@@ -1,7 +1,6 @@
-<img width="426" height="426" alt="image" src="https://github.com/user-attachments/assets/80503f56-5c90-4cb2-90fd-9989b7226a1d" /><img width="426" height="426" alt="image" src="https://github.com/user-attachments/assets/bec4df88-04fc-4bdb-a529-a0d28d56b44c" />
-
 
 <p align="center">
+  <img width="426" height="426" alt="image" src="https://github.com/user-attachments/assets/80503f56-5c90-4cb2-90fd-9989b7226a1d" />
 <svg width="320" height="200" viewBox="0 0 320 200" xmlns="http://www.w3.org/2000/svg" aria-label="Laptop with blinking code">
   <defs>
     <linearGradient id="screenGrad" x1="0" x2="1">
